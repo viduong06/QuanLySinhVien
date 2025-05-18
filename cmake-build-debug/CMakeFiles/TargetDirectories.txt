@@ -1,0 +1,3 @@
+C:/Users/quochuy/CLionProjects/QuanLySInhVien/cmake-build-debug/CMakeFiles/QuanLySInhVien.dir
+C:/Users/quochuy/CLionProjects/QuanLySInhVien/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/quochuy/CLionProjects/QuanLySInhVien/cmake-build-debug/CMakeFiles/rebuild_cache.dir
